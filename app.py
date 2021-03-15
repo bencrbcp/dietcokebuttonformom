@@ -32,7 +32,7 @@ def email_alert(subject, body, to):
     msg.set_content(body)
     msg['subject'] = subject
     msg['to'] = to
-    msg['from'] = user
+    msg['from'] = u
 
     server = smtplib.SMTP("smtp.gmail.com", 587)
     server.starttls()

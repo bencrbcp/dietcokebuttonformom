@@ -25,8 +25,8 @@ def submit():
 
 
 def email_alert(subject, body, to):
-    user = "dietcokebuttonformom@gmail.com"
-    password = "xrawcgapakabxrwo"
+    u = "dietcokebuttonformom@gmail.com"
+    p = "xrawcgapakabxrwo"
 
     msg = EmailMessage()
     msg.set_content(body)
@@ -36,7 +36,7 @@ def email_alert(subject, body, to):
 
     server = smtplib.SMTP("smtp.gmail.com", 587)
     server.starttls()
-    server.login(user, password)
+    server.login(u, p)
     server.send_message(msg)
 
     server.quit()

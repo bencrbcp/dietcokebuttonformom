@@ -19,8 +19,8 @@ def submit():
     date = now.strftime("%D")
 
     if request.method == 'POST':
-        email_alert("Diet Coke Alert", "Mom asked for a new Diet Coke at " + t + " on " + date + ".", "dafije8395@naymeo.com")
-        # email_alert("Diet Coke Alert", "Mom asked for a new Diet Coke at " + t + " on " + date + ".", "9548127501@mms.att.net")
+        email_alert("Diet Coke Alert~", "Mom asked for a new Diet Coke at " + t + " on " + date + ".", "andresalatorre02@gmail.com")
+        email_alert("Diet Coke Alert~", "Mom asked for a new Diet Coke at " + t + " on " + date + ".", "9548127501@mms.att.net")
         return render_template('success.html')
 
 

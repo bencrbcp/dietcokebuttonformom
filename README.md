@@ -3,7 +3,7 @@
 A simple webapp with a Diet Coke button. Upon pressing it, you get notified through email and/or SMS the user of the button wants a diet Coke.
 Originally made for a friend that who came up with this idea for his mother's birthday, as she really likes Diet Coke.
 
-![Demo gif](https://i.imgur.com/X7nVU3s.gif)
+<p align = "center"> ![Demo gif](https://i.imgur.com/X7nVU3s.gif) </p>
 
 ## Setup
 

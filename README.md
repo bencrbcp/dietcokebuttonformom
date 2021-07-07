@@ -8,7 +8,8 @@ Originally requested by a friend for his mother's birthday, as she really likes 
 ## Setup
 
 For the time being, the setup for this involves forking the project, adding your desired forms of contact info for notifications, and hosting it on your desired webapp platform.
-I wasn't intending on making this public originally, hence the slight awkwardness of the setup process.
+
+Since I didn't plan on publishing this project originally, the setup process is a little awkward right now.
 
 Recommended steps:
 <ol>

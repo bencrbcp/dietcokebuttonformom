@@ -12,16 +12,16 @@ I wasn't intending on making this public originally, hence the slight awkwardnes
 
 Recommended steps:
 <ol>
-  <li> Fork the project through GitHub </li>
+  <li> Fork the project through GitHub and make it private </li>
   <li> Add the desired email address and/or phone number to be notified, as well as the name of the person who you want to build this for </li>
-  <li> Crate a new project on a cloud platform such as [Heroku](https://www.heroku.com), and choose the option to build from GitHub. Then paste the link to the fork of this project you just made, and publish the heroku app </li>
+  <li> Crate a new project on a cloud platform such as Heroku (https://www.heroku.com), and choose the option to build from GitHub. Then paste the link to the fork of this project you just made, and publish the heroku app </li>
   <li> You should now be able to go on the link for the webapp and receive notifications when your desired person presses the button </li>
 </ol>
   
 Note: You may notice that in the app.py, the template for the SMS notifications is an email. If you're unfamiliar with this, learn more [here](https://www.dialmycalls.com/blog/send-text-messages-email-address)
 
 ## Planned feautres
-  * An internal server where people can set up their own , private instances of the Diet Coke webapp at the click of a button, without having to deal with forking and creating a project on a separate cloud platform.
+  * An internal server where people can set up their own, private instances of the Diet Coke webapp at the click of a button, without having to deal with forking and creating a project on a separate cloud platform.
   * A method of editing the "Diet Coke" text on the page, the color, among other things without having to edit the HTML by hand, and doing so on the weabpp itself instead.
   
   

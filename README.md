@@ -1,7 +1,7 @@
 ## Diet Coke button for mom
 
 A simple webapp with a Diet Coke button. Upon pressing it, you get notified through email and/or SMS the user of the button wants a diet Coke.
-Originally requested for by a friend for his mother's birthday, as she really likes Diet Coke.
+Originally requested by a friend for his mother's birthday, as she really likes Diet Coke.
 
 ![Demo gif](https://i.imgur.com/X7nVU3s.gif)
 

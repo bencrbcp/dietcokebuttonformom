@@ -14,8 +14,8 @@ Recommended steps:
 <ol>
   <li> Fork the project through GitHub and make it private </li>
   <li> Add the desired email address and/or phone number to be notified, as well as the name of the person who you want to build this for </li>
-  <li> Make a mail account (e.g. gmail) and give third party access to the python email library. </li>
-  <li> Add your newly created email to the corresponding "EDIT ME" line in app.py, as well as the specific password you created in the previous stpe </li>
+  <li> Make a mail account (e.g. gmail) and give third party access to the python email library </li>
+  <li> Add your newly created email to the corresponding "EDIT ME" line in app.py, as well as the specific password you created in the previous step </li>
   <li> Crate a new project on a cloud platform such as Heroku (https://www.heroku.com), and choose the option to build from GitHub. Then paste the link to the fork of this project you just made, and publish the heroku app </li>
   <li> You should now be able to go on the link for the webapp and receive notifications when your desired person presses the button </li>
 </ol>
